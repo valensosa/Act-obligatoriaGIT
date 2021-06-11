@@ -1,0 +1,44 @@
+#button{
+    border-color: black;
+}
+#actualizacion{
+    color: grey;
+    font-size: 0.9em;
+}
+.descripcion{
+    margin-top: 5%;
+    margin-left: 3%;
+}
+.cardstyle{
+    border-color: rgb(230, 229, 229);
+    border-style: solid;
+    border-width: 0.15em;
+    border-right-width: 0px;
+    
+}
+#email{
+   
+}
+#estilop{
+    color: grey;
+}
+form{
+    margin-left: 0.5%;
+}
+input{
+    width: 1000px;
+}
+#checkbox{
+    display: inline-flex;
+    margin-top: 1%;
+}
+#check{
+    padding: 15%;
+}
+#enviarbtn{
+    width: 6%;
+    margin-left: -1%;
+}
+#alignleft{
+    margin-left: -1.2%;
+}

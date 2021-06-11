@@ -1,0 +1,21 @@
+ul{
+    list-style: none;
+    display: inline-flex;
+    
+    
+}
+li{
+    padding: 1em;
+    
+}
+nav{
+    display: inline-flex;
+}
+h1{
+    font-size: 1.5em;
+    padding: 12px;
+}
+button{
+    width: 100px;
+    border-color: greenyellow;
+}
